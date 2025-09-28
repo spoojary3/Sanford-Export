@@ -19,7 +19,7 @@ Analyze seafood exports to identify:
    - SQL scripts in `ETL.SQL`
 3. **Data Loading**
    - Load into Power BI for visualization by connecting to Snowflake
-   - 
+     
 4. **Have used star schema  for scalability and enhanced filtering and slicing**
 
 5. **Analysis and Key Findings**

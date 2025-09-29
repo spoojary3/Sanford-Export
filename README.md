@@ -21,6 +21,8 @@ Analyze seafood exports to identify:
    - Load into Power BI for visualization by connecting to Snowflake
      
 4. **Have used star schema  for scalability and enhanced filtering and slicing**
+   <img width="649" height="360" alt="image" src="https://github.com/user-attachments/assets/dd8462c3-d9b9-400b-8f17-ff15ac5efc8b" />
+
 
 5. **Analysis and Key Findings**
    - MARKET POSITIONING: EXPORT GROWTH VS PRICE PER KG
@@ -38,6 +40,6 @@ Analyze seafood exports to identify:
 
 ## Usage
 1. Open PBIX files in Power BI Desktop
-3. Explore visuals and findings
+2. Explore visuals and findings
 
 

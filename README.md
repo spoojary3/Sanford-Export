@@ -33,7 +33,7 @@ Analyze seafood exports to identify:
      Vietnam and Denmark lead in combined growth and pricing potential.
    - PRICING_STRATEGY: PROFITABLE MARKET
       High volume and high price — ideal for profitability
-   - Heatmaps for market profitability species and bar chart for product
+   - Heatmaps for market profitability species and bar chart for product.
      Mussels are the most valuable 
    - PBIX files in `pbix/SANFORD_EXPORT_ANALYSIS.PBIX`
 - Have used star schema  for scalability and enhanced filtering and slicing
